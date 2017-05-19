@@ -1,5 +1,5 @@
 # Flux-Simple-Time-ticking-Alaram-system
-Based on the architecture suggestions from Facebook, this boilerplate will help you deal with it. It has included the flux-react extension to React JS, flux-react.
+Based on the architecture suggestions from Facebook, this alaram  will help you set time automatically. It has included the flux-react extension to React JS, flux-react.
 
 Read more about FLUX over at Facebook Flux and I wrote a post about it too: My experiences building a FLUX application and React JS and FLUX
 
